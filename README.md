@@ -16,8 +16,11 @@ A **Discord bot** that dynamically updates embeds with the **dominant color** of
 pip install -r requirements.txt
 
 ### 3. Create a `.env` File
-Inside the project directory, create a file named `.env` and add the following:  
-
+Inside the project directory, create a file named `.env` and add the following:
+```
+DISCORD_TOKEN=your-bot-token-here
+CHANNEL_ID=your-channel-id-here
+```
 
 ### 4. Run the Bot
 python main.py
