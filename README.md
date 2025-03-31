@@ -11,6 +11,9 @@ A **Discord bot** that dynamically updates embeds with the **dominant color** of
 ## Setup & Installation
 
 ### 1. Clone the Repository
+```sh
+git clone https://github.com/Khai-08/Dynamic-Embed-Bot.git
+```
 
 ### 2. Install Dependencies
 pip install -r requirements.txt
